@@ -1,14 +1,17 @@
 # Electric Consumption Rate
 
 ## Summary
-We are going to use a predictive modelling to perform this analysis. 
 
-The full use case is going to be based on a geographical research, features extraction to identify the time series 
+In this use case we analyse the energy data from 100 commercial/ industrial sites and find out that the consumption rate assigned to each site is correct.
+
+We use predictive modelling to perform this analysis. 
+
+The use case is based on a geographical research, features extraction to identify the time series 
 and similarity research to get conclusions about the correct use of the electric consumption rates. 
 
-We are considering that consumption rates are assigned according to the kind of sub-industry sites are stablished. 
+We are considering that consumption rates are assigned according to the kind of sub-industry sites are established. 
 
-In this use case, we are using Khiva library to re-dimension the data, extract the features and compose the features matrix for the predictive modelling and obtain similarities between sites of interest.
+Khiva provides the tools needed to re-dimension the data, extract the features and compose the features matrix for the predictive modelling and to obtain similarities between sites of interest.
 
 ## Data
 
